@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # axum-ratekeeper
 
 Production-ready, Redis-backed rate limiting service built with Axum/Tokio. Supports multi-tenant policies, token bucket and GCRA algorithms, admin-managed policy updates, per-tenant API keys, Prometheus metrics, and optional TLS.
