@@ -117,5 +117,3 @@ RUST_LOG=debug cargo run
 9. Expose optional GCRA parameters (burst tolerance) and richer responses (limit metadata).
 10. Add graceful degradation mode (fail-open/closed toggle) on Redis outages.
 
-## License
-MIT (proposed) — update as desired for your open-source release.
